@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This is an application for make ez the kaplan meier curve comparation (For now only available for .xlsx files)
 
-To learn more, see [Github Repositorie](https://github.com/aalvarogaarcia/kaplan-meier/edit/main/launch_app.RMD).
+To learn more, see [Github Repositorie](https://github.com/aalvarogaarcia/kaplan-meier/edit/main).
 
 ## Inputs and Outputs
 
