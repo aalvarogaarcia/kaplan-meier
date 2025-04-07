@@ -15,6 +15,7 @@ fi
 echo "Installing R packages..."
 Sudo Rscript -e "options(repos = c(CRAN = 'http://cran.rstudio.com/')); install.packages(c('KMsurv', 'survival', 'shiny', 'ggplot2', 'plyr', 'readxl'))"
 
+chmod +x km-ui.sh
 sudo mv km-ui.sh /usr/local/bin/km-ui
 
 echo "Installation complete!"
